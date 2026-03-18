@@ -58,7 +58,7 @@ SmartResumeAnalyze
     ├── script.js
     └── README.md
 
-## Author
+## 🧑 Author
 Yuvraj.R
 
 
