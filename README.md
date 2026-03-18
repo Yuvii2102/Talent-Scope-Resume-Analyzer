@@ -1,4 +1,4 @@
-# Smart Resume Analyzer (ATS Checker)
+# 📊 Smart Resume Analyzer (ATS Checker)
 
 A web-based application that analyzes resumes against job descriptions and calculates an **ATS (Applicant Tracking System) compatibility score**. The system compares keywords in the resume with keywords in the job description and highlights missing skills that may improve the chances of getting shortlisted.
 
@@ -58,8 +58,8 @@ SmartResumeAnalyze
     ├── script.js
     └── README.md
 
-## 🧑 Author
-Yuvraj.R
+## 👨‍💻 Author
+Yuvraj.R | Aspiring Software Developer |
 
 
 
