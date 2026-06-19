@@ -2,6 +2,8 @@
 
 A web-based application that analyzes resumes against job descriptions and calculates a compatibility score**. The system compares keywords in the resume with keywords in the job description and highlights missing skills that may improve the chances of getting shortlisted.
 
+Talent Scope is a Resume Analyzer project that analyzes resumes using keyword matching. It checks whether important skills and keywords required for a job are present in the resume and identifies matched and missing keywords.
+
 ---
 
 ## 📌 Project Overview
